@@ -5,7 +5,7 @@ class Netrum:
 
   def __init__(self):
     self.name = "Netrum"
-    self.languages = ["C++", "Java", "PHP", "Python"]
+    self.languages = ["C++", "Java", "PHP", "Python", "JavaScript"]
     self.interests = ["Gaming", "Coding", "Reverse-engineering"]
     self.language_spoken = ["RU", "EN", "UA"]
     self.age = 16
@@ -19,6 +19,7 @@ class Netrum:
 ![Java](https://img.shields.io/badge/Code-Java-informational?style=for-the-badge&logo=java&logoColor=white&color=6aa6f8)
 ![PHP](https://img.shields.io/badge/Code-PHP-informational?style=for-the-badge&logo=php&logoColor=white&color=6aa6f8)
 ![C++](https://img.shields.io/badge/Code-C++-informational?style=for-the-badge&logo=C++&logoColor=white&color=6aa6f8)
+![JavaScript](https://img.shields.io/badge/Code-javascript-informational?style=for-the-badge&logo=javascript&logoColor=white&color=6aa6f8)
 
 # 🌐 Contacts
  - Discord: [Netrum#1473](https://discordapp.com/users/1033410846057050272)
