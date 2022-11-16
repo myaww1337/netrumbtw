@@ -24,4 +24,4 @@ class Netrum:
 # 🌐 Contacts
  - Discord: [Netrum#1473](https://discordapp.com/users/1033410846057050272)
  - Telegram: [@netrumcc](https://t.me/netrumcc)
- - VK: [netrumbtw1337](https://vk.com/netrumcc) *(always inactive)*
+ - VK: [netrumcc](https://vk.com/netrumcc) *(always inactive)*
