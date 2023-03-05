@@ -22,5 +22,5 @@ class Netrum:
 ![JavaScript](https://img.shields.io/badge/Code-javascript-informational?style=for-the-badge&logo=javascript&logoColor=white&color=6aa6f8)
 
 # 🌐 Contacts
- - Discord: [Netrum?#0790](https://discordapp.com/users/1033410846057050272)
- - Telegram: [@netrumcc](https://t.me/netrumcc)
+ - Discord: [n3trvmqq#7571](https://discordapp.com/users/1047935592413016087)
+ - Telegram: [@n3trvmqq](https://t.me/n3trvmqq)
