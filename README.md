@@ -1,10 +1,10 @@
-# 👋 Hello. I am Netrum :)
+# 👋 Hello. I am n3trvmqq :)
 
 ```python
 class Netrum:
 
   def __init__(self):
-    self.name = "Netrum"
+    self.name = "n3trvmqq"
     self.languages = ["C++", "Java", "PHP", "Python", "JavaScript"]
     self.interests = ["Gaming", "Coding", "Reverse-engineering"]
     self.language_spoken = ["RU", "EN", "UA"]
